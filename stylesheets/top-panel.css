@@ -1,0 +1,37 @@
+.top-panel {
+  background: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.top-panel-header {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0px;
+  padding: 20px;
+}
+
+.top-panel-buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+h1 {
+  color: #61dafb;
+  padding: 20px;
+}
+
+h3 {
+  font-size: 0.7rem;
+}
+
+mark {
+  background: none;
+  font-weight: bolder;
+  color: white;
+}
+button {
+  margin: 10px;
+}

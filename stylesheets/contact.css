@@ -1,0 +1,16 @@
+.contact {
+  width: fit-content;
+  list-style-position: inside;
+}
+
+.contact li {
+  color: #282c34;
+  margin:5px;
+  padding:5px;
+}
+
+.contact li a {
+  font-weight: bold;
+  color: #282c34;
+
+}
